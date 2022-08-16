@@ -1,0 +1,5 @@
+print("hostname............. ", ip[0])
+# print("ip interface 0....... ", ip[2][1])
+# print("ip interface 1....... ", ip[2][2])
+# print("ip interface 2....... ", ip[2][3])
+# print("ip interface 2....... ", ip[2][4])

@@ -1,0 +1,13 @@
+{
+   "IPs": [
+      "172.24.0.1",
+      "192.168.56.1",
+      "192.168.241.1",
+      "192.168.161.1"
+   ],
+   "os_system_name": "Windows",
+   "os_manufacturer": "OS Manufacturer:           Microsoft Corporation\r",
+   "os_install_date": "Original Install Date:     29/03/2022, 2:23:11 pm\r",
+   "os_user": "light-bringer",
+   "mac": "64:80:99:9d:47:34"
+}
